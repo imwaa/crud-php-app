@@ -1,5 +1,5 @@
 
-<h1> Projet scolaire fait en PHP </h1>
+<h1> PHP CRUD </h1>
 <h3> Il s'agit d'une petite application PHP & Bootstrap assez simple qui permet de gerer (CRUD - Create, Read, Update, Delete) des utilisateurs et des tâches a réaliser</h3>
 
 <img src= "https://i.imgur.com/DNAXmFX.png">
